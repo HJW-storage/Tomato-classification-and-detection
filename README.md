@@ -12,7 +12,7 @@
 
 **obj.zip** 파일은 yolo format으로 레이블링된 텍스트 파일을 포함합니다. 
  
-**<ins>NOTE</ins>**
+**<ins>NOTE</ins>**<br/>
 **yolov4-custom.cfg**, **obj.data**, **obj.names** 3개의 파일을 본인이 찾고자 하는 class에 맞게 수정하여 사용하시면 됩니다.
 (본인의 경우는 red, medium, green 3가지 class 사용)
 
