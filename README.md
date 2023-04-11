@@ -20,7 +20,7 @@
 
 ## YOLOv4 model training을 위한 코랩노트북
 
-https://colab.research.google.com/drive/16biTYL3mgmbJghKDcjzKArI81vnGuYZr#scrollTo=Py0DQRy4HHDH
+https://colab.research.google.com/
 
 ## 사용법 설명 블로그
 
