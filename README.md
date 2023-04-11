@@ -2,8 +2,8 @@
 
 이미지 크롤링을 통한 데이터셋을 이용해 YOLOv4 model 학습(using google colab)
 
-# 시연영상
-![test_img](https://user-images.githubusercontent.com/113449410/231201778-87bd7c35-4032-4ce6-adf7-8ceacf1b61d5.png)
+# 시연 이미지
+<img src="https://user-images.githubusercontent.com/113449410/231201778-87bd7c35-4032-4ce6-adf7-8ceacf1b61d5.png" width="700" height="370">
 ![test_mp4](https://user-images.githubusercontent.com/113449410/231202337-53836d5c-e8be-4ddc-a128-09ce6865d1e7.mp4)
 
 # 간단 사용법
