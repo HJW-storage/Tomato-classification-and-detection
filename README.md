@@ -29,3 +29,4 @@ https://dohyeon.tistory.com/9?category=1006878
 ## 참조
 
 [AlexeyAB GitHub](https://github.com/AlexeyAB/darknet/)
+[TECHZIZOU](https://techzizou.com/train-a-custom-yolov4-detector-using-google-colab-tutorial-for-beginners/)
