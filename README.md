@@ -1,6 +1,6 @@
 # 토마토 탐지 및 분류(초록색, 중간, 빨간색)
 
-이미지 크롤링을 통한 데이터셋을 이용해 YOLOv4 model 학습(using google colab)
+이미지 크롤링을 통해 확보한 데이터셋을 이용해 YOLOv4 model 학습(using google colab)
 
 # 시연 이미지
 <img src="https://user-images.githubusercontent.com/113449410/231201778-87bd7c35-4032-4ce6-adf7-8ceacf1b61d5.png" width="700" height="370">  
