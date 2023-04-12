@@ -4,7 +4,8 @@
 
 # 시연 이미지
 <img src="https://user-images.githubusercontent.com/113449410/231201778-87bd7c35-4032-4ce6-adf7-8ceacf1b61d5.png" width="700" height="370">
-<img src="https://user-images.githubusercontent.com/113449410/231329557-e15c7164-6e22-4f77-8938-112d3a0372a4.gif">
+# 시연 영상
+<img src="https://user-images.githubusercontent.com/113449410/231329557-e15c7164-6e22-4f77-8938-112d3a0372a4.gif" width="700" height="370">
 
 
 # 간단 사용법
